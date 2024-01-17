@@ -1,4 +1,4 @@
-# The Algorithms - C++ # {#mainpage}
+![image](https://github.com/hustlikeit/TheAlgorithm-C-Plus-Plus/assets/15117601/ed6f59f3-6b3c-4352-8970-be9ffc68a66d)# The Algorithms - C++ # {#mainpage}
 <!-- the suffix in the above line is required for doxygen to consider this as the index page of the generated documentation site -->
 
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/TheAlgorithms/C-Plus-Plus)
@@ -30,6 +30,7 @@ This repository is a collection of open-source implementation of a variety of al
 
 [Online Documentation](https://TheAlgorithms.github.io/C-Plus-Plus) is generated from the repository source codes directly. The documentation contains all resources including source code snippets, details on execution of the programs, diagrammatic representation of program flow, and links to external resources where necessary. The documentation also introduces interactive source code with links to documentation for C++ STL library functions used.
 Click on [Files menu](https://TheAlgorithms.github.io/C-Plus-Plus/files.html) to see the list of all the files documented with the code.
+Click on [Simple Introduction](https://mp.weixin.qq.com/s/154Lwroj7UE6X3TgddRaxQ) to see the GithubFun.
 
 [Documentation of Algorithms in C++](https://thealgorithms.github.io/C-Plus-Plus) by [The Algorithms Contributors](https://github.com/TheAlgorithms/C-Plus-Plus/graphs/contributors) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)<br/>
 <a href="https://creativecommons.org/licenses/by-sa/4.0"><img alt="Creative Commons License" style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" /><img  alt="Credit must be given to the creator" style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" /><img alt="Adaptations must be shared under the same terms" style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" /></a>
